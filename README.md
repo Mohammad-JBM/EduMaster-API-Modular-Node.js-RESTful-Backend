@@ -1,5 +1,7 @@
 <p align="center">
   <img src="logo.png" alt="EduMaster API Logo" width="300"/>
+  <br/>
+  <b>EduMaster API — Developed by Mohammad JBM</b>
 </p>
 
 
