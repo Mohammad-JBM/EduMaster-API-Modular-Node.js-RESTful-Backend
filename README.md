@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" alt="EduMaster API Logo" width="300"/>
+  <img src="logo.png" alt="EduMaster API Logo" width="300"/>
 </p>
 
 
